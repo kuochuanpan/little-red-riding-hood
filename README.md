@@ -8,10 +8,11 @@ A story telling repo to learn Git and GitHub
 
 2. `Chapters/`: The stroy
 
-    * `chapter1.md`
-    * `chapter2.md`
-    * `chapter3.md`
-    * `chapter4.md`
+    * `chapter1.md`: **Into the Woods** Little Red Riding Hood sets off on her journey to her grandmother's house. 
+    * `chapter2.md`: **The Encounter** Little Red Riding Hood meets the wolf in the woods.
+    * `chapter3.md`: **The Deception** The wolf tricks Little Red Riding Hood into revealing where she's going.
+    * `chapter4.md`: **The Rescue** The woodcutter saves Little Red Riding Hood and her grandmother from the wolf.
+    * `chapter5.md`: **The Conclusion** Little Red Riding Hood learns her lesson and vows to be more careful in the future.
 
 3. `Characters.md`: This file will contain descriptions of the main characters in the story, such as Little Red Riding Hood, the wolf, and the woodcutter.
 
