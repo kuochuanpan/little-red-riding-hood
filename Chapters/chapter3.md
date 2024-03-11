@@ -20,6 +20,10 @@ As the story unfolds, Hoodie's journey becomes not only a race against the cunni
 
 小紅帽跟野狼不小心掉進了恐龍世界裡！！！
 這時候 小紅帽發現自己變聲了 聲音變得更加尖銳了 然而 大野狼卻進化成一隻超級恐龍狼！！！！
+
+![wolfosaur](../Images/ch3_wolfosaur.webp)
+
+
 「WONDERFUL!!!我們這是到了什麼地方啊！！」小紅帽說
 「實在是太WONDERFUL了」她又接者說
 面對刺耳的音波攻擊，恐龍郎臉色猙獰得請他停止說話
