@@ -1,7 +1,6 @@
 # Characters
 
-* **小紅帽** 小紅帽，要去奶奶家玩，但是差點被大野狼吃掉。
-* **大野狼** 大野狼，想吃小紅帽。
-* **奶奶** 小紅帽的奶奶。
-* **樵夫** 路過的獵人，最後救了小紅帽。
-
+* Little Red Riding Hood: Little Red Riding Hood is going to visit her grandmother, but she was almost eaten by the Bad Wolf.
+* Bad Wolf: The Bad Wolf wants to eat Little Red Riding Hood.
+* Grandmother: Little Red Riding Hood's grandmother.
+* Woodcutter: A passing hunter who eventually saved Little Red Riding Hood.
