@@ -1,2 +1,2 @@
 # Chpater 3
-
+When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him. "Good day to you, Little Red Riding Hood." - "Thank you, wolf." - "Where are you going so early, Little Red Riding Hood?" - "To grandmother's." - "And what are you carrying under your apron?" - "Grandmother is sick and weak, and I am taking her some cake and wine. We baked yesterday, and they should give her strength." - "Little Red Riding Hood, just where does your grandmother live?" - "Her house is a good quarter hour from here in the woods, under the three large oak trees. There's a hedge of hazel bushes there. You must know the place," said Little Red Riding Hood.
