@@ -20,7 +20,7 @@ A story telling repo to learn Git and GitHub.
 
 # Git Workflow:
 
-`Branches`: Each team will create a new branch for their work on a specific chapter. In this semester, let's start from the branch `main-comphys-112`.
+`Branches`: Each team will create a new branch for their work on a specific chapter. In this semester, let's start from the branch `main-comphyslab-113`.
 
 `Commits`: Team members will commit their changes regularly as they write their parts of the story. Each commit should have a descriptive message indicating the changes made.
 
