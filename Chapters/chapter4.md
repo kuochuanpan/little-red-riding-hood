@@ -17,7 +17,7 @@
 
 他們把石頭裝回大野狼的肚子裡並縫起來，
 
-![放石頭](./../Images/DALL·E%202025-03-10%2015.03.01%20-%20A%20fairy%20tale%20scene%20where%20Little%20Red%20Riding%20Hood%20and%20the%20huntsman%20are%20placing%20stones%20into%20the%20belly%20of%20the%20Big%20Bad%20Wolf.%20The%20setting%20is%20a%20cozy%20wooden%20c.webp)
+![放石頭](./../Images/wolf.webp)
 
 之後把大野狼醒來後口很渴，
 
